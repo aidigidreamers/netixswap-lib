@@ -1,4 +1,4 @@
-# Netixswap-lib
+# uniswap-lib
 
 
 Solidity libraries that are shared across Netixswap contracts. These libraries are focused on safety and gas efficiency.
@@ -18,5 +18,5 @@ Install this in another project via `yarn add @netixswap/lib`
 Then import the contracts via:
 
 ```solidity
-import "@netixwap/lib/contracts/libraries/Babylonian.sol"; 
+import "@netixswap/lib/contracts/libraries/Babylonian.sol"; 
 ```

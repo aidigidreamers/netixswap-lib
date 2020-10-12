@@ -1,8 +1,10 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 pragma solidity >=0.5.0;
 
 import './SafeERC20Namer.sol';
 
-// produces names for pairs of tokens using Netixswap's naming scheme
+// produces names for pairs of tokens using Uniswap's naming scheme
 library PairNamer {
     string private constant TOKEN_SYMBOL_PREFIX = '🦄';
     string private constant TOKEN_SEPARATOR = ':';
