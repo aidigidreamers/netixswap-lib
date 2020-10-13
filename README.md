@@ -1,4 +1,4 @@
-# uniswap-lib
+# Netixswap-lib
 
 
 Solidity libraries that are shared across Netixswap contracts. These libraries are focused on safety and gas efficiency.
